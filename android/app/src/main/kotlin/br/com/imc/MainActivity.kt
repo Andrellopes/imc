@@ -1,4 +1,4 @@
-package br.com.allc.imc
+package br.com.imc
 
 import io.flutter.embedding.android.FlutterActivity
 

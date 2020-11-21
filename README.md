@@ -1,6 +1,6 @@
 # imc
 
-A new Flutter application.
+imc
 
 ## Getting Started
 
