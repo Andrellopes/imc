@@ -1,6 +1,6 @@
 # imc
 
-imc
+imc 1.0
 
 ## Getting Started
 
